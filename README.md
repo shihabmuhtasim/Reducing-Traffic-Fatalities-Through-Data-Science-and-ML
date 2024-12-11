@@ -1,5 +1,6 @@
 # Reducing Traffic Fatalities Through Data Science and ML
 This project focuses on analyzing traffic accident data to develop strategies for reducing traffic-related fatalities in the United States. Using data wrangling, visualization, dimensionality reduction, and unsupervised clustering techniques, we aim to identify patterns and provide actionable insights for policymakers.
+![Traffic dara science](https://github.com/user-attachments/assets/02ac7bae-f735-4275-845e-1878b02d4467)
 
 ## Project Objectives
 1. Understand the variation in traffic accident demographics across states.
